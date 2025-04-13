@@ -1,0 +1,4 @@
+1. First open the file/folder in vs code
+2. Now open the command promt either by going through tabs or by pressig ctrl+shift+' 
+3. type the command npm install react-app to install all the required packages and node modules.
+4. type the command npm start to run the project on localhost:3000

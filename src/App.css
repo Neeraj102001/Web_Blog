@@ -1,0 +1,81 @@
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.blog-container{
+  padding: 24px;
+  height: 480px;
+  background-color:rgb(240, 218, 252);
+  border-radius: 30px;
+}
+.blog-container table .blog-list-btn{
+  width:450px;
+  height: 50px;
+  background-color: rgba(31, 59, 161, 0.696);
+  color:rgb(247, 247, 4);
+  border-radius: 40px;
+  border: none;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  box-shadow: rgb(39, 37, 37) 0px 5px 10px !important;
+}
+
+.blog-container table .blog-category{
+  padding:4px;
+  background-color: rgb(45, 24, 118);
+  border-radius: 10px;
+  box-shadow: rgb(39, 37, 37) 0px 1px 5px !important;
+}
+.shadow{
+  box-shadow: rgb(39, 37, 37) 0px 5px 30px !important;
+}
+
+.app-nav{
+  background-color:rgb(12, 118, 93);
+  text-align: right;
+  font-size:20px;
+  padding:20px;
+  border-radius: 60px;
+  margin-top: 110px;
+  margin-bottom: 50px;
+  display:flex;
+
+}
+.app-nav span a{
+  text-decoration: none;
+  color:rgb(235, 238, 241);
+  margin-right: 10px;
+}
+.app-nav button{
+  margin-right: 16px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(244, 12, 12);
+}
+
+.App-link {
+  color: #f3f4f5;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
