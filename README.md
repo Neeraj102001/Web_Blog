@@ -2,6 +2,21 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+#Screenshots
+
+### 🏠 Blog Homepage
+![Blog Homepage](Screenshots/BlogHome.PNG)
+
+### ➕ Add Blog
+![Add Blog](Screenshots/AddBlog.PNG)
+
+### ✏️ Editing Blog
+![Edit Blog](Screenshots/EditBlog.PNG)
+
+### ❌ Delete Blog
+![Delete Blog](Screenshots/DeleteBlog.PNG)
+
 ## Available Scripts
 
 In the project directory, you can run:
